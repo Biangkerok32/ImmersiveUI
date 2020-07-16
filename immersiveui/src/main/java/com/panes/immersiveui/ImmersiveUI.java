@@ -3,7 +3,7 @@ package com.panes.immersiveui;
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Build;
-import android.support.v7.app.ActionBar;
+//import android.support.v7.app.ActionBar;
 //migrasitoandroidx
 //import android.support.v7.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatActivity;
